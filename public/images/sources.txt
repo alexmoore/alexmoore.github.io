@@ -1,0 +1,4 @@
+white-linen.png is sourced from http://subtlepatterns.com/whitey/, renamed to be less offensive in this context.
+        Subtle Patterns by Subtle Patterns is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+        http://subtlepatterns.com/
+        http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
