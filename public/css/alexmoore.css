@@ -1,5 +1,5 @@
 h1.title {
-    font-family: 'Helvetica Neue', helvetica, arial, freesans, clean, sans-serif;
+    /*font-family: 'Helvetica Neue', helvetica, arial, freesans, clean, sans-serif;*/
     color: rgb(50,93,114);
     margin: auto;
     width: 90%;
@@ -28,7 +28,7 @@ body a:hover {
 }
 
 body article{
-    font-family: Charter, "Bitstream Charter", Georgia, serif;
+    /*font-family: Charter, "Bitstream Charter", Georgia, serif;*/
     color: #242424;
     font-size: 22px;
     background-color: #fefefe;
