@@ -1,21 +1,21 @@
 h1.title {
-    /*font-family: 'Helvetica Neue', helvetica, arial, freesans, clean, sans-serif;*/
-    color: rgb(50,93,114);
+    color: #325d72;
     margin: auto;
     width: 90%;
     max-width: 750px;
     padding: 0;
     font-weight: bold;
-    font-size: 120px;
+    font-size: 5em;
     text-shadow: 1px 1px 3px rgba(150, 150, 150, 1);
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 32px;
 }
 
 body {
     background-image: url("../images/white-linen.png");
     background-repeat: repeat;
     margin: 0;
+    font-size: 18px;
 }
 
 body a {
@@ -28,17 +28,15 @@ body a:hover {
 }
 
 body article{
-    /*font-family: Charter, "Bitstream Charter", Georgia, serif;*/
     color: #242424;
-    font-size: 22px;
     background-color: #fefefe;
-    margin: 30px auto;
-    padding: 30px;
-    min-width: 80%;
-    max-width: 800px;
+    margin: 2em auto;
+    padding: 2em;
+    min-width: 25em;
+    max-width: 44em;
 }
 
 section{
-    margin: 0 30px 1.5em 30px;
+    margin: 0 2em 1.5em 2em;
 }
 
