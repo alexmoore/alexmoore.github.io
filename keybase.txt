@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/alexmoore
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alexmoore.io
+  * I am alexmoore (https://keybase.io/alexmoore) on keybase.
+  * I have a public key with fingerprint ED5D 175E 29A7 478F 0D4F  7D57 1D71 6D67 A969 0E08
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "ed5d175e29a7478f0d4f7d571d716d67a9690e08",
+            "host": "keybase.io",
+            "key_id": "1d716d67a9690e08",
+            "uid": "d3c1d6d5b2ba42da57b949064dff1600",
+            "username": "alexmoore"
+        },
+        "service": {
+            "hostname": "alexmoore.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397531264,
+    "expire_in": 157680000,
+    "prev": "4b879bde9d30ffd4771d56d7b33547ab8e4167c69bc7ea0ae01716e9cbc7cd91",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.8
+Comment: https://keybase.io/crypto
+
+yMHkAnicbZFtSFRZGMdnrLXUBBHCkmLtFEQlde/clzP3Tm6uZliJfsg0xBzPuefM
+eNG5d5q5Y77ssharKPitdgWDJCtYeps+lJJRSaxohCA0kZhiCJqwvmzBQBCi51p9
+ie6Xy/N/fs//Oc/z/Ju6wZHs3NcdT31hVOU7Xw5+jDhOFfW2NANskkagNoNauv7z
+6YafhoIh3bCACiiRCA8l6lIQFKHbxxHRB4kEeQJ5mcgQKbLCUc4NskGNGbYrmA1G
+YXpQN5nGAq9OmPoDPrKeIILGE5lI2IWR6CJIglgRFU4Wic/Hyxxng2EaMlCAMhrV
+0YaAaYYo+D0bMLle15jcvN77e+TLC4Ih0zI1s45laiwrqNqFVmPQJs9T7P3q4cW6
+QdjgrKCehsK6aQCVZ6Rm6bYpLyhQEniXLGYD2hDUQ9Sr24QEZTfHPrsNrWeWInZD
+BROqEIHz+YgI2aIkmUAsCJIIEXZTkZehJitYgxRxiHI82wtVNBZrROFZ/zA9Z5hA
+FdgzkZ9ZhnW/gayIPfLzwcqNDmeyI/GnBPt0juSktG8HXRzetFpS7h9bNGZHDk2O
+nfilxIr0nuyJbH37JjeKd6YOuTvuihMdWX92w7mMLX88ygNPtw/83ZR7jU5NViB3
+evC38Zb46yMLXeVLxeL/nv7pS62/yjMFKHPH8f7Rrhkruox7Vu4VegZixZ7Oz9X5
+D5Zq0M3209d3P869ivtjnv+mwOGmKViiXk6P5owWtTeQKnq/MqcwKXAlpt0pGE+J
+y47h2z+/2iydzXq3Te2brQUV/vlYoDTtfWde4t6/Si+Iqwf0aEXbpzMdZbM5CX4a
+0aZHJlZab7lKL/YJHxYau+aO7UlfDD5c/iezLWV/WVwl85NPnHX5Q7ue3Uiszji6
+LK8BhpUTyQ==
+=GfVC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexmoore
+
+==================================================================
+
