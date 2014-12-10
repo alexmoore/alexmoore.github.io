@@ -11,11 +11,16 @@ h1.title {
     margin-bottom: 32px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: "museo-slab", "Charter","Georgia",serif;;
+}
+
 body {
     background-image: url("../images/white-linen.png");
     background-repeat: repeat;
     margin: 0;
     font-size: 18px;
+    font-family: "museo-sans", sans-serif;
 }
 
 body a {
